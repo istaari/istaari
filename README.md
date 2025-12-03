@@ -2,16 +2,18 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,spring,go,react,html,css&theme=light)](https://skillicons.dev)
 
+<!-- 
 ![](https://komarev.com/ghpvc/?username=GuptaRoshan&color=green)
+-->
 
-**I write clean code**
+### 🛠️ Crafting Clean Code & Solving Puzzles
+**I believe in code quality, elegant solutions, and the power of continuous learning.**
 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning  **`Go Lang, Python and Neural Network`**
-- 👯 I’m looking to collaborate on anything cool
-- 💬 Ask me about anything related to **`Java, Springboot, Javascript, Typescript, Data Structures, Machine Learning`**
-- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/roshngupta)
-
+- 💻 **Writing Clean Code:** Always aiming for clarity and efficiency.
+- 🌱 **Current Obsessions:** Go Lang, Python, and unraveling the magic of Neural Networks.
+- 🤝 **Let's Collaborate:** Got a cool project? I'm in!
+- 🧠 **My Stack:** Java, Spring Boot, JS/TS, Data Structures, and ML concepts. Feel free to reach out!
+- 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/roshngupta)
 
 <!-- 
 </br>
