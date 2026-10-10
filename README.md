@@ -1,94 +1,59 @@
-<div align="center">
+```text
+ ____                  _                   ____             _
+|  _ \ ___  ___  __ _| |__   __ _ _ __    / ___|_   _ _ __ | |_ __ _
+| |_) / _ \/ __|/ _` | '_ \ / _` | '_ \  | |  _| | | | '_ \| __/ _` |
+|  _ <  __/\__ \ (_| | | | | (_| | | | | | |_| | |_| | |_) | || (_| |
+|_| \_\___||___/\__,_|_| |_|\__,_|_| |_|  \____|\__, | .__/ \__\__,_|
+                                                  |___/|_|
 
-## Roshan Gupta
 
-AI Agents &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Distributed Systems
 
-## Technologies
+  ┌─ MISSION ────────────────────────────┐
+  │  $ cat mission.txt                   │
+  │                                      │
+  │  > Building intelligent systems.     │
+  │  > Exploring machine reasoning.      │
+  │  > Turning complexity into           │
+  │    elegant architecture.             │
+  └──────────────────────────────────────┘
 
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,pytorch,docker,kubernetes,postgres,redis,kafka,git,github,linux" />
 
-<br>
+  ┌─ AREAS OF FOCUS ──────────────────────┐
+  │                                       │
+  │  01  /  AI Agents                     │
+  │  02  /  LLMs                          │
+  │  03  /  Deep Learning                 │
+  │  04  /  Distributed Systems           │
+  │                                       │
+  └───────────────────────────────────────┘
 
-<div align="center">
 
-## About
+  ┌─ TECH STACK ─────────────────────────────────────┐
+  │                                                  │
+  │  LANGUAGES                                       │
+  │  Python · Java · TypeScript · JavaScript · Rust  │
+  │                                                  │
+  │  AI & MACHINE LEARNING                           │
+  │  PyTorch · LLMs · AI Agents                      │
+  │                                                  │
+  │  INFRASTRUCTURE                                  │
+  │  Docker · Kubernetes · PostgreSQL                │
+  │  Redis · Kafka · Git · GitHub · Linux            │
+  │                                                  │
+  └──────────────────────────────────────────────────┘
 
-<br>
 
-<div align="center">
+  ┌─ BUILD PIPELINE ──────────────────────────┐
+  │                                           │
+  │  $ ./build --intelligence --scale         │
+  │                                           │
+  │  [✓] Systems Thinking                     │
+  │  [✓] Intelligent Design                   │
+  │  [✓] Scalable Architecture                │
+  │                                           │
+  │  "Making many moving parts prevail."      │
+  │                                           │
+  │  STATUS :: ALWAYS BUILDING                │
+  └───────────────────────────────────────────┘
 
-<font color="#6B6B6B">
-
-<em>
-I build where thought takes shape in code,<br>
-where quiet ideas cross a thousand wires,<br>
-and scattered machines share a single road,<br>
-each signal carrying its own small fire.<br>
-<br>
-I follow systems learning as they grow,<br>
-and architectures built to bear the strain;<br>
-I seek the hidden rhythms down below,<br>
-where order rises slowly out of rain.<br>
-<br>
-Between the mind and machinery,<br>
-I find my craft: to make the complex clear<br>
-to give a thousand voices harmony,<br>
-and make a distant system feel near.<br>
-<br>
-For elegance is not the lack of scale<br>
-but making many moving parts prevail.
-</em>
-
-</font>
-
-</div>
-
-<br>
-
-## Exploring
-
-<br>
-
-<table align="center">
-  <tr>
-    <td width="15%"></td>
-    <th align="center" width="25%">Focus</th>
-    <th align="center" width="45%">Exploring</th>
-    <td width="15%"></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td align="center"><strong>AI Agents</strong></td>
-    <td align="center">Autonomous systems and intelligent workflows</td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td align="center"><strong>LLMs</strong></td>
-    <td align="center">Reasoning, inference, and applications</td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td align="center"><strong>Deep Learning</strong></td>
-    <td align="center">Neural architectures and representation learning</td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td align="center"><strong>Distributed Systems</strong></td>
-    <td align="center">Scalable and reliable infrastructure</td>
-    <td></td>
-  </tr>
-</table>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=17&duration=3000&pause=1200&color=666666&center=true&vCenter=true&width=500&lines=Building+AI+Agents;Exploring+LLMs;Designing+Distributed+Systems;Learning+Deep+Learning" />
-
-</div>
+```
